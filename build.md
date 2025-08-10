@@ -1,8 +1,9 @@
-GooglePhotos (arm64-v8a): 7.38.0.785903005  
+GooglePhotos (arm-v7a): 7.40.0.792701077  
+GooglePhotos (arm64-v8a): 7.40.0.792701077  
 
 Remember to Install [Microg](https://github.com/ReVanced/GmsCore/releases) OR [MicroG-RE](https://github.com/WSTxda/MicroG-RE)  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.32.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.32.0)  
+Patches: ReVanced/patches-5.33.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.33.0)  
