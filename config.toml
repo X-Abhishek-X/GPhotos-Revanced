@@ -12,7 +12,6 @@ exclusive-patches = true
 included-patches = """\
   'Spoof features' \
   'Enable DCIM folders backup control' \
-  'GmsCore support' \
   'Change package name' \
   """
 arch = "both"
