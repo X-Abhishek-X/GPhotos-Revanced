@@ -1,20 +1,39 @@
 # Google Photos - ReVanced (Auto-Build)
 
-## Installation
-1. Download and log in to [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) / [MicroG-RE](https://github.com/WSTxda/MicroG-RE).
-2. Install the latest version of [Build APK](https://github.com/MentalBlank/GPhotos-Revanced/releases/latest).
-3. Open ReVanced GPhotos and allow it to process your media (this may take time depending on your library).
-4. Use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.
+[![Build Status](https://github.com/X-Abhishek-X/GPhotos-Revanced/actions/workflows/build.yml/badge.svg)](https://github.com/X-Abhishek-X/GPhotos-Revanced/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Patches
-- Spoofs the device to enable Google Pixel XL exclusive features, including unlimited storage.
-- GMS Core Support
+A fully automated build system for **ReVanced Google Photos**, providing pre-patched APKs with exclusive features unlocked. This repository uses GitHub Actions to ensure the latest patches are applied to the most stable base APKs.
 
-## Disclaimer
-This patch modifies the original APK, and may violate the app provider's terms of service. Use at your own risk.
+## ✨ Key Features
 
-## Other Apps:
-[Google Photos](https://github.com/MentalBlank/GPhotos-Revanced) | [YouTube](https://github.com/MentalBlank/YouTube-Revanced) | [FB Messenger](https://github.com/MentalBlank/Messenger-Revanced) | [Reddit](https://github.com/MentalBlank/Reddit-Revanced) | [TikTok](https://github.com/MentalBlank/Tiktok-Revanced)
+- **🛡️ Storage Saver Unlimited**: Spoofs the device to enable Pixel XL exclusive features, including unlimited original-quality storage.
+- **🔗 GMS Core Support**: Integrated compatibility with ReVanced GmsCore (formerly MicroG) for seamless account sync.
+- **🔄 Auto-Updates**: Weekly automated builds ensuring you always have the latest patches and base versions.
+- **📦 Multi-Architecture**: Builds optimized for `arm64-v8a`, `armeabi-v7a`, and `x86_64`.
 
-## Thanks To:
-[j-hc](https://github.com/j-hc) & [ReVanced](https://github.com/ReVanced)
+## ⚙️ Installation Guide
+
+Follow these steps to ensure a successful installation:
+
+1. **Install GmsCore**
+   Download and log in to [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). This is required for Google account functionality.
+2. **Download Patched APK**
+   Install the latest build from the [Releases](https://github.com/X-Abhishek-X/GPhotos-Revanced/releases/latest) section of this repository.
+3. **Configure Media**
+   Open the app and allow it to process your media library. This may take several minutes depending on your library size.
+4. **Stay Updated**
+   We recommend using [Obtainium](https://github.com/ImranR98/Obtainium) to automatically track and install build updates from this repository.
+
+## ⚠️ Disclaimer
+
+This project provides patches that modify the original application binary. This may violate the application provider's Terms of Service. Use this tool responsibly and at your own risk. This project is not affiliated with Google or ReVanced.
+
+## 🔍 Explore More
+
+Explore our other automated ReVanced builds:
+- [YouTube ReVanced](https://github.com/X-Abhishek-X/ReVanced-Automated-Build-Scripts)
+- [Messenger Plus](https://github.com/X-Abhishek-X/ReVanced-Automated-Build-Scripts)
+
+---
+**Maintained by [X-Abhishek-X](https://github.com/X-Abhishek-X)**
